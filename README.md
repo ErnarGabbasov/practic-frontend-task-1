@@ -34,10 +34,9 @@
 └── README.md                     # документация сборки
 ```
 ## Задание
-Задачи:
-
--Создать репозиторий на GitHub. Создать публичный репозиторий на GitHub и выложить всю работу туда в папку “Task-1”.
--Сверстать макет https://www.figma.com/file/JHIEZOe8cYYhy9MpaTjrFJ/Frontend-Demo
+//Задачи:
+//-Создать репозиторий на GitHub. Создать публичный репозиторий на GitHub и выложить всю работу туда в папку “Task-1”.
+//-Сверстать макет https://www.figma.com/file/JHIEZOe8cYYhy9MpaTjrFJ/Frontend-Demo
 
 Пожелания / требования:
 
